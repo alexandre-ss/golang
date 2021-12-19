@@ -3,7 +3,7 @@
 // go run converter.go <value> <unit of measurement>
 //
 // for example: go run converter.go 19 celsius
-// expected out put: 19.00 celsius = 66.20 fahrenheit
+// expected output: 19.00 celsius = 66.20 fahrenheit
 
 package main
 
